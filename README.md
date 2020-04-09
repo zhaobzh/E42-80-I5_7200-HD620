@@ -1,4 +1,4 @@
-# E42-80-I5_7200-HD620
+# LENOVO E42 Hackintosh EFI Clover
 LENOVO E42 Hackintosh EFI Clover
 
 LENOVO E42 NOTEBOOK
