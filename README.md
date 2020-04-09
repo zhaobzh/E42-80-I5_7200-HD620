@@ -1,5 +1,4 @@
 # LENOVO E42 Hackintosh EFI Clover
-LENOVO E42 Hackintosh EFI Clover
 
 LENOVO E42 NOTEBOOK
 
